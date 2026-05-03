@@ -3,12 +3,12 @@ Version: 1.0.0-1
 Architecture: all
 Maintainer: Your Name <you@example.com>
 Installed-Size: 33
-Depends: python3-pytest, python3:any
-Filename: apt-repo/pool/group-archiver_1.0.0-1_all.deb
-Size: 4924
-MD5sum: 2a355cb0d79fe42c6c2c9a2d4a0c5556
-SHA1: 39e72c26366ebf6f1edf47909ce688d29a1cd1c7
-SHA256: 4419765b2e9ad5680d05e2ca91623aa96fd3227c6603e5953b0effbfc8917f98
+Depends: python3:any
+Filename: pool/main/group-archiver_1.0.0-1_all.deb
+Size: 4904
+MD5sum: 69b0402305b8c85e3285cd98ca945037
+SHA1: da007370fff4ab71ed4ffbdecbab34d712b9ca61
+SHA256: 8cebb0dced0ca40b248800747f19c05bcb21c1951068e78956252b0a158945a9
 Section: utils
 Priority: optional
 Description: Linux group file archiving tool
