@@ -1,0 +1,17 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: group-archiver
+Label: group-archiver
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Group Archiver APT Repository
+-----BEGIN PGP SIGNATURE-----
+
+iI0EARYKADYWIQRxBK1W541NT+bvQGM/durB1gYhwAUCafdSPhgcdXNtYW4uYnV0
+dDEzMUBnbWFpbC5jb20ACgkQP3bqwdYGIcCvUwEA0SRSiYBsz+IEtDqIdsW4WWbc
+nyuXOafrJ4XW9Xqoa6IA923UEng3i7b3U5MSZcx32JLc4rM9HXtsZhYaYzGNRgA=
+=Izay
+-----END PGP SIGNATURE-----

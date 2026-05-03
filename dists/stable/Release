@@ -1,0 +1,7 @@
+Origin: group-archiver
+Label: group-archiver
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Group Archiver APT Repository
